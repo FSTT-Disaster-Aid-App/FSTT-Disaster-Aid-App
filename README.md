@@ -75,6 +75,7 @@ The project employs a comprehensive DevOps strategy using Jenkins, Docker, and K
 Here are some screenshots of the Disaster Aid Web Application:
 
 ![Architecture](images/architecture.jpg)
+![Jenkins](images/jenkins.jpg)
 ![Home Page](images/home.jpg)
 ![Request Assistance](images/request-assistance.jpg)
 ![Volunteer Dashboard](images/volunteer-dashboard.jpg)
